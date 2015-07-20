@@ -1,0 +1,6 @@
+1. Servidor TomCat;
+2. Verificar se o mesmo se encontra desligado;
+3. Ir para a pasta C:\servidores\apache-tomcat-7.0.63\webapps;
+4. Criar uma nova pasta (ex. angularjs_include);
+5. Inserir os arquivos html na nova pasta criada;
+6. Acessar via URL: http://localhost:8080/angularjs_include/testAngularJS.html
